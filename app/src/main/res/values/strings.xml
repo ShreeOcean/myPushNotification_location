@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="default_notification_channel_id">com.ocean.pushnotification.NotifyID</string>
+    <string name="this_is_main_activity_2">This is Main Activity 2</string>
+    <string name="fetch_location">Fetch Location</string>
+</resources>

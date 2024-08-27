@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "88559718697",
+    "project_id": "mapinkotlindemo",
+    "storage_bucket": "mapinkotlindemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88559718697:android:548a8911ab2ae2c478e738",
+        "android_client_info": {
+          "package_name": "com.example.gmapkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88559718697-pcikn9rpuc8s0hq0tgq1tgcan4aaebq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gmapkotlin",
+            "certificate_hash": "0cfd3edb88575eb73ab09b172ce080d4a9e711f1"
+          }
+        },
+        {
+          "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgbV3lzgvZ91b-rJGd6L9BcXFlScQFxo"
+        },
+        {
+          "current_key": "AIzaSyCPYaYcy2Ns5kTGNTrFqq_6rSOVga1LeE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88559718697:android:fd235380ecdfce3278e738",
+        "android_client_info": {
+          "package_name": "com.google.codelabs.buildyourfirstmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88559718697-27ukf03vm2i8hqikd3v49f41iuvinfnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.codelabs.buildyourfirstmap",
+            "certificate_hash": "b2c5a65db74bddf08196dfe7d9362acd3daceb2e"
+          }
+        },
+        {
+          "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgbV3lzgvZ91b-rJGd6L9BcXFlScQFxo"
+        },
+        {
+          "current_key": "AIzaSyCPYaYcy2Ns5kTGNTrFqq_6rSOVga1LeE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88559718697:android:371629a6f29811dd78e738",
+        "android_client_info": {
+          "package_name": "com.ocean.mydailyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88559718697-jqfujfjmimbvgvf0b4sqeeidpvgo1qit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocean.mydailyplanner",
+            "certificate_hash": "d2f35e5b010e6e5568dda0e2a77238fd8c0a4ff5"
+          }
+        },
+        {
+          "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgbV3lzgvZ91b-rJGd6L9BcXFlScQFxo"
+        },
+        {
+          "current_key": "AIzaSyCPYaYcy2Ns5kTGNTrFqq_6rSOVga1LeE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88559718697:android:c0e0f4846f82256678e738",
+        "android_client_info": {
+          "package_name": "com.ocean.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88559718697-reqmi8o6ou0tedjj6d1g4fa27g55akip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocean.pushnotification",
+            "certificate_hash": "d2f35e5b010e6e5568dda0e2a77238fd8c0a4ff5"
+          }
+        },
+        {
+          "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgbV3lzgvZ91b-rJGd6L9BcXFlScQFxo"
+        },
+        {
+          "current_key": "AIzaSyCPYaYcy2Ns5kTGNTrFqq_6rSOVga1LeE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88559718697-87t7tsupnkr0rdn3h9433sq3alvtpmi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
